@@ -1,0 +1,3 @@
+[submodule "util-ai"]
+	path = util-ai
+	url = https://github.com/warrenulrich/util-ai
